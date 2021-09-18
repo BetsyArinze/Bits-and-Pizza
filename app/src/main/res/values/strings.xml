@@ -16,10 +16,10 @@
         <item>Spaghetti Bolognese</item>
         <item>Lasagne</item>
     </string-array>
-   <string-array name="stores">
-       <item>Cambridge</item>
-       <item>Sebastopol</item>
-   </string-array>
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
     <string name="company_name">Bits and Pizza</string>
     <string name="restaurant_image">Restaurant image</string>
     <string name="home_text">Since we opened our doors in 2017, Bits and Pizza
